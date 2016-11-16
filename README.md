@@ -1,2 +1,64 @@
-# LightWeather-UWP
-æžç®€å¤©æ°”UWPå®˜æ–¹å¼€æºé¡¹ç›®ã€‚
+![logo](http://lightweather.azurewebsites.net/files/1.png)
+***
+#¼«¼òÌìÆøUWP-¿ªÔ´ÏîÄ¿
+***
+
+###¼«¼òÌìÆøUWP ¡ª¡ª ¼«¼ò£¬²»Ö¹ÓÚ´Ë£¡ 
+
+####¼«¼òÌìÆøUWPÖÂÁ¦ÓÚ¹²Í¬´´½¨Ò»¸ö¿ª·ÅµÄ¿ªÔ´ÉçÇø¡£Òò´Ë£¬ÎÒÃÇÔÚ¹«Ôª2016Äê11ÔÂ15ÈÕ¾ö¶¨£¬½«¼«¼òÌìÆøUWPËùÓÐµÄ´úÂëÈ«²¿¿ª·Å³öÀ´£¬·¢²¼µ½GithubÉÏ£¬Í¬²½¼«¼òÌìÆøUWP¸üÐÂ´úÂë¡£
+
+##### *±¾Èí¼þ×ñÊØ GNU General Public License Ð­Òé£¬ÏêÇéÇë¼û /LICENSE
+
+***
+
+#ÏîÄ¿¸üÐÂÈÕÖ¾
+
+***
+####°æ±¾£º4.2P ¸üÐÂÈÕÆÚ£º2016/11/15
+#####1. ³õÊ¼»¯ÏîÄ¿¡£
+#####2. Í¬²½¼«¼òÌìÆøUWP-4.2×îÐÂÔ´Âë¡£
+
+***
+
+#¼«¼òÌìÆøUWP¿ªÔ´ÏîÄ¿ÓÐÄÄÐ©ÌØµã£¿
+
+***
+
+
+1. ¼«¼òÌìÆøUWP¿ªÔ´ÏîÄ¿ÑÏ¸ñ×ñÊØ GNU General Public License Ð­Òé¡£
+
+2. ¹Ù·½Ö§³Ö£¬°²È«¿É¿¿¡£
+
+3. ¿ÉÒÔÖ±½Ó¸ø¹Ù·½Ìá½»¡£
+
+
+***
+
+#ÓÐÎÊÌâ·´À¡£¿
+
+***
+ÔÚÊ¹ÓÃÖÐÓÐÈÎºÎÎÊÌâ£¬»¶Ó­·´À¡¸øÎÒ£¬¿ÉÒÔÓÃÒÔÏÂÁªÏµ·½Ê½¸úÎÒ½»Á÷£¡
+
+* ÓÊ¼þ(lightweather#163.com, °Ñ#»»³É@)
+* QQ: 202789005
+
+***
+
+#¸ÐÐ»£¡
+
+***
+¸ÐÐ»ÒÔÏÂµÄ»ï°é,ÅÅÃû²»·ÖÏÈºó£¡
+
+* [Toosame ¡ª Î¢Ò³](http://dream-studio.cn/m/) 
+
+***
+
+#¾èÔù
+
+***
+
+¿ª·¢²»Ò×£¬»¹Çë´ó¼Ò¶à¶àÖ§³Ö£¡
+Ö§¸¶±¦£º1581388920@qq.com
+»òÕßÔÚ¼«¼òÌìÆøUWPÖÐµã»÷¹ã¸æ£¬Ö§³ÖÎÒÃÇ¡£
+
+
